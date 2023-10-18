@@ -1,0 +1,1 @@
+compile this code using: gcc -Wall -Wextra lru.c test_LRU.c -o test_LRU
